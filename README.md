@@ -22,7 +22,7 @@
   - Everyone should use a [Raspberry Pi](https://raspberrypi.org)!
   - [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com) is ***way*** better than [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios)!
   - [![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)](https://en.wikipedia.org/wiki/Linux) is ***way*** better than [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)!
-
+  - The brown wire is never as twisted!
 
 ##
    
