@@ -1,5 +1,5 @@
 
-#### Pinned repositories
+### Pinned repositories
 [![update Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crilum&repo=update&theme=algolia)](https://github.com/Crilum/update)
 [![Pi-Apps Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Botspot&repo=pi-apps&theme=algolia)](https://github.com/Botspot/pi-apps)
 [![btop Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aristocratos&repo=btop++&theme=algolia)](https://github.com/aristocratos/btop++)
@@ -16,6 +16,7 @@
 - 🌱 I'm learning **Bash**!
 - 👯 I’m a **collaborator** on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)
 - 💬  ![**anything**](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) [Raspberry Pi](https://raspberrypi.org) related!
+- ⛪ Member of the Church of Jesus Christ of latter-day Saints!
 - 📫 How to **reach** me: Create an issue on [Crilum/Crilum](https://github.com/Crilum/Crilum)!
 - ⚡ Fun **facts**:
   - Everyone should use a [Raspberry Pi](https://raspberrypi.org)!
@@ -25,7 +26,7 @@
 
 ##
    
-### My GitHub Stats:
+### 🏆 My GitHub Stats:
 [![Crilum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crilum&show_icons=true&theme=algolia
 )]() <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crilum&theme=algolia)]()--> [![Crilum's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Crilum&theme=algolia)](https://github.com/DenverCoder1/github-readme-streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crilum&theme=algolia&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
