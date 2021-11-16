@@ -5,13 +5,17 @@
 [![btop Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aristocratos&repo=btop++&theme=algolia)](https://github.com/aristocratos/btop++)
 [![vdesktop Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Botspot&repo=vdesktop&theme=algolia&show_author)](https://github.com/Botspot/vdesktop)
 
-<br>
 
-#  Hi there 👋, I'm [Crilum](https://github.com/Crilum)
+##
+
+![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Crilum/update) ![Profile views](https://gpvc.arturio.dev/Crilum) 
+
+
+#  Hi there 👋, I'm [Crilum](https://github.com/Crilum) | ![Follow Me!](https://img.shields.io/github/followers/Crilum.svg?style=social&label=Follow&maxAge=2592000)
 - 🔭 I'm **currently working** on [Crilum/update](https://github.com/Crilum/update), which is a small bash script that will help you update your apps.
 - 🌱 I'm learning **Bash**!
 - 👯 I’m a **collaborator** on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)
-- 💬 Ask me about **anything** [Raspberry Pi](https://raspberrypi.org) related!
+- 💬  ![**anything**](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) [Raspberry Pi](https://raspberrypi.org) related!
 - 📫 How to **reach** me: Create an issue on [Crilum/Crilum](https://github.com/Crilum/Crilum)!
 - ⚡ Fun **facts**:
   - Everyone should use a [Raspberry Pi](https://raspberrypi.org)!
@@ -23,4 +27,5 @@
    
 ### My GitHub Stats:
 [![Crilum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crilum&show_icons=true&theme=algolia
-)]() ![Profile views](https://gpvc.arturio.dev/Crilum) <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crilum&theme=algolia)]()--> [![Crilum's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Crilum&theme=algolia)](https://github.com/DenverCoder1/github-readme-streak-stats) 
+)]() <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crilum&theme=algolia)]()--> [![Crilum's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Crilum&theme=algolia)](https://github.com/DenverCoder1/github-readme-streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Crilum&theme=algolia&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
