@@ -13,13 +13,14 @@
 - 👯 I’m a **collaborator** on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)
 - 💬 Ask me about **anything** [Raspberry Pi](https://raspberrypi.org) related!
 - 📫 How to **reach** me: Create an issue on [Crilum/Crilum](https://github.com/Crilum/Crilum)!
-- ⚡ Fun **fact**: Everyone should use a [Raspberry Pi](https://raspberrypi.org)!
+- ⚡ Fun **facts**:
+  - Everyone should use a [Raspberry Pi](https://raspberrypi.org)!
+  - [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com) is ***way*** better than [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios)!
+  - [![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)](https://en.wikipedia.org/wiki/Linux) is ***way*** better than [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)!
+
 
 ##
    
 ### My GitHub Stats:
 [![Crilum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crilum&show_icons=true&theme=algolia
-)](https://github.com/anuraghazra/github-readme-stats)
-<!-- #Not until i use more langs: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crilum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
+)]() ![Profile views](https://gpvc.arturio.dev/Crilum) <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crilum&theme=algolia)]()--> [![Crilum's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Crilum&theme=algolia)](https://github.com/DenverCoder1/github-readme-streak-stats) 
