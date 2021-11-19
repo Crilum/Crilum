@@ -2,7 +2,7 @@
 ### Pinned repositories
 [![update Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crilum&repo=update&theme=algolia&show_owner=1)](https://github.com/Crilum/update)
 [![Pi-Apps Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Botspot&repo=pi-apps&theme=algolia&show_owner=1)](https://github.com/Botspot/pi-apps)
-[![btop Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aristocratos&repo=btop++&theme=algolia&show_owner=1)](https://github.com/aristocratos/btop++)
+[![btop Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aristocratos&repo=btop++&theme=algolia&show_owner=1)](https://github.com/aristocratos/btop)
 [![vdesktop Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Botspot&repo=vdesktop&theme=algolia&show_owner=1)](https://github.com/Botspot/vdesktop)
 
 
