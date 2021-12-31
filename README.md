@@ -8,7 +8,7 @@
 
 ##
 
-![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Crilum/update) ![Profile views](https://gpvc.arturio.dev/Crilum) 
+![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Crilum/update) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrilum%2FCrilum&count_bg=%234FDDC3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 #  Hi there 👋, I'm [Crilum](https://github.com/Crilum) | ![Follow Me!](https://img.shields.io/github/followers/Crilum.svg?style=social&label=Follow&maxAge=2592000)
