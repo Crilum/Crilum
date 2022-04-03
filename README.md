@@ -16,7 +16,6 @@
 - 🌱 I'm learning **Bash**!
 - 👯 I’m a **collaborator** on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)
 - 💬  ![**anything**](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) [Raspberry Pi](https://raspberrypi.org) related!
-- ⛪ Member of the Church of Jesus Christ of latter-day Saints!
 - 📫 How to **reach** me: Create an issue on [Crilum/Crilum](https://github.com/Crilum/Crilum)!
 - ⚡ Fun **facts**:
   - Everyone should use a [Raspberry Pi](https://raspberrypi.org)!
