@@ -25,5 +25,5 @@
    
 ### 🏆 My GitHub Stats:
 [![Crilum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crilum&show_icons=true&theme=algolia
-)]() <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crilum&theme=algolia)]()--> [![Crilum's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Crilum&theme=algolia)](https://github.com/DenverCoder1/github-readme-streak-stats) 
+)]() [![Crilum's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Crilum&theme=algolia)](https://github.com/DenverCoder1/github-readme-streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crilum&theme=algolia)]()
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crilum&theme=algolia&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
