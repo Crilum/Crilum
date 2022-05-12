@@ -14,7 +14,11 @@
 #  Hi there 👋, I'm [Crilum](https://github.com/Crilum) | ![Follow Me!](https://img.shields.io/github/followers/Crilum.svg?style=social&label=Follow&maxAge=2592000)
 - ⛪ I believe in Jesus Christ as the Savior and Redeemer of the World!
   - I probably won't be active on Sundays
-- 🔭 I'm **currently working** on [Crilum/update](https://github.com/Crilum/update),a bash script that helps you update your apps, and [Crilum/styleprompt](https://github.com/Crilum/styleprompt), a bash prompt creator!
+- 🔭 I'm **currently working** on:
+  - [Crilum/update](https://github.com/Crilum/update), a bash script that helps you update your apps
+  - [Crilum/styleprompt](https://github.com/Crilum/styleprompt), a bash prompt creator
+  - [Crilum/websh](https://crilum.github.io/websh), a web powered shell emulator
+  - [Crilum/crilum.github.io](https://crilum.github.io), currently only a fun toy...
 - 🌱 I'm learning **Bash**, and **JavaScript**!
 <!--- 👯 I’m a **contributor** on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)-->
 <!--- 💬  ![**anything**](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) [Raspberry Pi](https://raspberrypi.org) related!-->
