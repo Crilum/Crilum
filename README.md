@@ -19,7 +19,7 @@
   - [Crilum/styleprompt](https://github.com/Crilum/styleprompt), a bash prompt creator
   - [Crilum/websh](https://websh.crilum.tk), a web powered shell emulator
   - [crilum.tk](https://crilum.tk) ([Crilum/crilum.github.io](https://github.com/Crilum/crilum.github.io)), my website. mostly a fun toy...
-- 🌱 I'm learning **Bash**, **JavaScript**, and **Python**!
+- 🌱 I'm learning **Bash**, **JavaScript**, and **Python** (along with **PyQt5**)!
 <!--- 👯 I’m a **contributor** on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)-->
 <!--- 💬  ![**anything**](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) [Raspberry Pi](https://raspberrypi.org) related!-->
 <!--- 📫 How to **reach** me: Create an issue on [Crilum/Crilum](https://github.com/Crilum/Crilum)!-->
