@@ -29,12 +29,6 @@
 ##
    
 ### 🏆 My GitHub Stats:
-#### Stars over time:
-
-![Sparkline](https://stars.medv.io/Crilum/badges.svg)
-
-
-#### Stats:
 
 [![Crilum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crilum&show_icons=true&theme=algolia
 )]() [![Crilum's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Crilum&theme=algolia)](https://github.com/DenverCoder1/github-readme-streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crilum&theme=algolia)]()
