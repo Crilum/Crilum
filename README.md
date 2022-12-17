@@ -25,6 +25,7 @@
 <!--- 📫 How to **reach** me: Create an issue on [Crilum/Crilum](https://github.com/Crilum/Crilum)!-->
 - ⚡ Fun **facts**:
   - The brown wire is never as twisted!
+- 🎵 Check out my **new** [lo-fi song](https://bit.ly/3hCU7un)!
 
 ##
    
