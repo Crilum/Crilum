@@ -27,6 +27,8 @@
   - The brown wire is never as twisted!
 - 🎵 Check out my **new** [lo-fi song](https://bit.ly/3hCU7un)!
 
+[![Spotify Card](https://github.com/Crilum/Crilum/blob/main/Spotify_Card.png?raw=true)](https://open.spotify.com/artist/0KuXotyp9tnRKFWfM5B4Sr?si=s8kd8t7yQrmK3N6KOYFzzQ)
+
 ##
    
 ### 🏆 My GitHub Stats:
