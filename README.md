@@ -12,20 +12,20 @@
 
 
 #  Hi there 👋, I'm [Crilum](https://crilum.tk) | ![Follow Me!](https://img.shields.io/github/followers/Crilum.svg?style=social&label=Follow&maxAge=2592000)
-- ⛪ I believe in Jesus Christ as the Savior and Redeemer of the World!
+- ⛪ I'm Christian
   - I probably won't be active on Sundays
 - 🔭 I'm **currently working** on:
   - [Crilum/update](https://github.com/Crilum/update), a bash script that helps you update your apps
   - [Crilum/styleprompt](https://github.com/Crilum/styleprompt), a bash prompt creator
   - [Crilum/websh](https://websh.crilum.tk), a web powered shell emulator
   - [crilum.tk](https://crilum.tk) ([Crilum/crilum.github.io](https://github.com/Crilum/crilum.github.io)), my website. mostly a fun toy...
-- 🌱 I'm learning **Bash**, **JavaScript**, and **Python** (along with **PyQt5**)!
+- 🌱 I'm learning **React**!
 <!--- 👯 I’m a **contributor** on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)-->
 <!--- 💬  ![**anything**](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) [Raspberry Pi](https://raspberrypi.org) related!-->
-<!--- 📫 How to **reach** me: Create an issue on [Crilum/Crilum](https://github.com/Crilum/Crilum)!-->
-- ⚡ Fun **facts**:
+- 📫 How to **reach** me: DM me on Discord at `crilum`
+- ⚡ Fun **stuff**:
   - The brown wire is never as twisted!
-- 🎵 Check out my **new** [lo-fi song](https://bit.ly/3hCU7un)!
+- 🎵 Check out my **new** [lo-fi song](https://bit.ly/falldrizzle)!
 
 [![Spotify Card](https://github.com/Crilum/Crilum/blob/main/Spotify_Card.png?raw=true)](https://open.spotify.com/artist/0KuXotyp9tnRKFWfM5B4Sr?si=s8kd8t7yQrmK3N6KOYFzzQ)
 
