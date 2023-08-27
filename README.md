@@ -13,8 +13,7 @@
 
 #  Hi there 👋, I'm [Crilum](https://crilum.tk) | ![Follow Me!](https://img.shields.io/github/followers/Crilum.svg?style=social&label=Follow&maxAge=2592000)
 - ⛪ I'm Christian
-  - I probably won't be active on Sundays
-- 🔭 I'm **currently working** on:
+- 🔭 My projects:
   - [Crilum/update](https://github.com/Crilum/update), a bash script that helps you update your apps
   - [Crilum/styleprompt](https://github.com/Crilum/styleprompt), a bash prompt creator
   - [Crilum/websh](https://websh.crilum.tk), a web powered shell emulator
